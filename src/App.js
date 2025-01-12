@@ -9,9 +9,7 @@ import Error from './pages/error';
 import Tables from './pages/table';
 import Games from './pages/games/games';
 import Game1 from './pages/games/game1/game1';
-import { HashRouter as Router,  
-        Switch,
-        Route } from "react-router-dom";
+import { HashRouter as Router,Switch,Route } from "react-router-dom";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
