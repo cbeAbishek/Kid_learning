@@ -1,7 +1,7 @@
 {
   "name": "Kid_leaning",
   "version": "0.1.0",
-  "homepage": "https://cbeabishek.github.io/Kid_leaning",
+  "homepage": "https://kid-learning.onrender.com/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
