@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kid_leaning/static/css/main.a2640fa7.css",
-    "main.js": "/Kid_leaning/static/js/main.07d389ce.js",
-    "static/js/422.4cf454a4.chunk.js": "/Kid_leaning/static/js/422.4cf454a4.chunk.js",
+    "main.js": "/Kid_leaning/static/js/main.08b0f03c.js",
+    "static/js/422.8fe941e8.chunk.js": "/Kid_leaning/static/js/422.8fe941e8.chunk.js",
     "static/media/fa-solid-900.svg": "/Kid_leaning/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/Mercury.jpg": "/Kid_leaning/static/media/Mercury.63ff6c603e2dbd76eaa7.jpg",
     "static/media/fa-brands-400.svg": "/Kid_leaning/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -93,11 +93,11 @@
     "static/media/arrow_left.svg": "/Kid_leaning/static/media/arrow_left.2b063d13b9ef574cd7d1.svg",
     "static/media/arrow_right.svg": "/Kid_leaning/static/media/arrow_right.0897f985cc5c7537b31d.svg",
     "main.a2640fa7.css.map": "/Kid_leaning/static/css/main.a2640fa7.css.map",
-    "main.07d389ce.js.map": "/Kid_leaning/static/js/main.07d389ce.js.map",
-    "422.4cf454a4.chunk.js.map": "/Kid_leaning/static/js/422.4cf454a4.chunk.js.map"
+    "main.08b0f03c.js.map": "/Kid_leaning/static/js/main.08b0f03c.js.map",
+    "422.8fe941e8.chunk.js.map": "/Kid_leaning/static/js/422.8fe941e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2640fa7.css",
-    "static/js/main.07d389ce.js"
+    "static/js/main.08b0f03c.js"
   ]
 }
